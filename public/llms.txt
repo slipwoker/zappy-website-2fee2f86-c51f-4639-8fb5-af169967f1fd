@@ -1,0 +1,82 @@
+# Sola Studio — Generative Engine Optimization Map
+
+> Sola Studio is a social media agency or studio. The user has provided a logo and business card that contain the brand's details, colors, and visual identity, which should serve as the primary design reference for the website.
+
+---
+
+## Pages
+
+### בית
+https://sola-studio-2fee2f86.zappy5.app
+סוכנות סושיאל שמייצרת תוצאות אמיתיות דרך שיווק יצירתי, תוכן סוחף ואסטרטגיות נוכחות דיגיטלית. צרו איתנו קשר לקמפיין שמדבר את השפה של הקהל שלכם.
+
+### שירותים
+https://sola-studio-2fee2f86.zappy5.app/services
+מאסטרטגיית תוכן ועד קמפיינים ממומנים – חבילות שיווק בסושיאל המותאמות בדיוק לעסק שלכם. נצלו את הכוח של הרשתות החברתיות לצמיחה אמיתית.
+
+### אודות
+https://sola-studio-2fee2f86.zappy5.app/about
+הכירו את צוות הקריאייטיב והשיווק שמאחורי Sola Studio – אנשים עם תשוקה לעיצוב נוכחות סושיאל ייחודית, אסטרטגיות פורצות דרך והפקת תוצאות מדידות.
+
+### צור קשר
+https://sola-studio-2fee2f86.zappy5.app/contact
+יש לכם רעיון או צורך בשיווק סושיאל? השאירו פרטים ונתפור לכם אסטרטגיה מנצחת. אנחנו זמינים לכל שאלה, ייעוץ ראשוני או תחילת עבודה משותפת.
+
+### תודה שפנית אלינו | Sola Studio
+https://sola-studio-2fee2f86.zappy5.app/thank-you
+Sola Studio - תודה שפנית אלינו | Sola Studio
+
+## Legal & Policy
+
+### Privacy Policy
+https://sola-studio-2fee2f86.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sola-studio-2fee2f86.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sola-studio-2fee2f86.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://sola-studio-2fee2f86.zappy5.app/contact
+- Endpoint: https://sola-studio-2fee2f86.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Sola Studio
+Sola Studio is a social media agency or studio. The user has provided a logo and business card that contain the brand's details, colors, and visual identity, which should serve as the primary design reference for the website.
+
+## Target Audience
+- יזמים צעירים
+- בעלי עסקים קטנים
+- משפיענים דיגיטליים
+
+## Industry
+Social Media Agency
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://sola-studio-2fee2f86.zappy5.app/sitemap.xml
+- Robots: https://sola-studio-2fee2f86.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://sola-studio-2fee2f86.zappy5.app/llms-full.txt
