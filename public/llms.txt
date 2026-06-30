@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://sola-studio.zappy5.app
 סוכנות סושיאל שמייצרת תוצאות אמיתיות דרך שיווק יצירתי, תוכן סוחף ואסטרטגיות נוכחות דיגיטלית. צרו איתנו קשר לקמפיין שמדבר את השפה של הקהל שלכם.
 
 ### שירותים
-https://example.com/services
+https://sola-studio.zappy5.app/services
 מאסטרטגיית תוכן ועד קמפיינים ממומנים – חבילות שיווק בסושיאל המותאמות בדיוק לעסק שלכם. נצלו את הכוח של הרשתות החברתיות לצמיחה אמיתית.
 
 ### אודות
-https://example.com/about
+https://sola-studio.zappy5.app/about
 הכירו את צוות הקריאייטיב והשיווק שמאחורי Sola Studio – אנשים עם תשוקה לעיצוב נוכחות סושיאל ייחודית, אסטרטגיות פורצות דרך והפקת תוצאות מדידות.
 
 ### צור קשר
-https://example.com/contact
+https://sola-studio.zappy5.app/contact
 יש לכם רעיון או צורך בשיווק סושיאל? השאירו פרטים ונתפור לכם אסטרטגיה מנצחת. אנחנו זמינים לכל שאלה, ייעוץ ראשוני או תחילת עבודה משותפת.
 
 ### תודה שפנית אלינו | Sola Studio
-https://example.com/thank-you
+https://sola-studio.zappy5.app/thank-you
 Sola Studio - תודה שפנית אלינו | Sola Studio
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://sola-studio.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://sola-studio.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://sola-studio.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://sola-studio.zappy5.app/contact
+- Endpoint: https://sola-studio.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Social Media Agency
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://sola-studio.zappy5.app/sitemap.xml
+- Robots: https://sola-studio.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://sola-studio.zappy5.app/llms-full.txt
